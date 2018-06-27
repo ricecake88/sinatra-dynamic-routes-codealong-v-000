@@ -18,7 +18,7 @@ class App < Sinatra::Base
     "Goodbye, #{name}."
   end
   
-  get '/multiple/:num1/:num2' do
+  get '/multiply/:num1/:num2' do
   end
 
   # Code your final two routes here:
